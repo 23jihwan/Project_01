@@ -694,6 +694,12 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
+      - m_Data: -7274
+      - m_Data: -7186
+      - m_Data: -7016
+      - m_Data: -5898
+      - m_Data: -5810
+      - m_Data: -5580
       - m_Data: -1328
       m_RenameOverlay:
         m_UserAcceptedRename: 0
